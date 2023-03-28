@@ -16,6 +16,6 @@ A dashboard page with multiple charts that update from the same data
 
 Can create pie charts for meta popularity at a given event or given time period
 Can create histograms detailing historic meta share of a given archetype
-Can create heatmaps for analysis based on the countries of participants
+Can create choropleth for analysis based on the countries of participants
 
 User driven tools to make changes to the data provided
